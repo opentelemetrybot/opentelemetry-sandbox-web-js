@@ -58,25 +58,19 @@ instructions to build and make changes to this project, see the
 
 We have a weekly SIG meeting! See the [community page](https://github.com/open-telemetry/community#javascript-sdk) for meeting details and notes.
 
-Approvers (@open-telemetry/... (TBD)):
-
-...
-
-*Find more about the approver role in [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#approver).*
-
-Maintainers ([@open-telemetry/js-maintainers](https://github.com/orgs/open-telemetry/teams/sandbox-web-js-maintainers)):
+### Maintainers
 
 - [Daniel Dyla](https://github.com/dyladan), Dynatrace
 - [Martin Kuba](https://github.com/martinkuba), New Relic
 - [Neville Wylie](https://github.com/MSNev), Microsoft
 - [Ted Young](https://github.com/tedsuo), LightStep
 
-*Find more about the maintainer role in [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#maintainer).*
+For more information about the maintainer role, see the [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#maintainer).
 
-### Thanks to all the people who already contributed
+### Thanks to all of our contributors!
 
 <a href="https://github.com/open-telemetry/opentelemetry-sandbox-web-js/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=open-telemetry/opentelemetry-sandbox-web-js" />
+  <img alt="Repo contributors" src="https://contrib.rocks/image?repo=open-telemetry/opentelemetry-sandbox-web-js" />
 </a>
 
 ## Useful links
