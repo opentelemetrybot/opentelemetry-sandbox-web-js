@@ -214,16 +214,16 @@ We have a weekly SIG meeting! See the [community page](https://github.com/open-t
 
 #### Emeriti
 
-- [Bartlomiej Obecny](https://github.com/obecny), LightStep, Maintainer
-- [Daniel Khan](https://github.com/dkhan), Dynatrace, Maintainer
-- [Mayur Kale](https://github.com/mayurkale22), Google, Maintainer
+- [Bartlomiej Obecny](https://github.com/obecny), Maintainer
+- [Brandon Gonzalez](https://github.com/bg451), Approver
+- [Daniel Khan](https://github.com/dkhan), Maintainer
+- [John Bley](https://github.com/johnbley), Approver
+- [Mark Wolff](https://github.com/markwolff), Approver
+- [Mayur Kale](https://github.com/mayurkale22), Maintainer
+- [Olivier Albertini](https://github.com/OlivierAlbertini), Approver
 - [Rauno Viskus](https://github.com/rauno56), Maintainer
+- [Roch Devost](https://github.com/rochdev), Approver
 - [Valentin Marchaud](https://github.com/vmarchaud), Maintainer
-- [Brandon Gonzalez](https://github.com/bg451), LightStep, Approver
-- [Roch Devost](https://github.com/rochdev), DataDog, Approver
-- [John Bley](https://github.com/johnbley), Splunk, Approver
-- [Mark Wolff](https://github.com/markwolff), Microsoft, Approver
-- [Olivier Albertini](https://github.com/OlivierAlbertini), Ville de Montréal, Approver
 
 *Find more about the emeritus role in [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#emeritus-maintainerapprovertriager).*
 
