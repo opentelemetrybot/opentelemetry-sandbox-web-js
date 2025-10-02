@@ -6,6 +6,11 @@ on:
 jobs:
   stale:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: write # because actions/stale deletes its old cache before saving new one
+      issues: write
+      pull-requests: write
     steps:
       - uses: actions/stale@v8
         with:
